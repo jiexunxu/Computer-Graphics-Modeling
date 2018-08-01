@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "newmat10", "newmat10.vcproj", "{A66838C1-E848-4F8E-8FE8-BA18473E4D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66838C1-E848-4F8E-8FE8-BA18473E4D69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A66838C1-E848-4F8E-8FE8-BA18473E4D69}.Debug|Win32.Build.0 = Debug|Win32
+		{A66838C1-E848-4F8E-8FE8-BA18473E4D69}.Release|Win32.ActiveCfg = Release|Win32
+		{A66838C1-E848-4F8E-8FE8-BA18473E4D69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
